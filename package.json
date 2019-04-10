@@ -2,7 +2,7 @@
   "name": "topy",
   "version": "1.0.0",
   "description": " Chinese exchange py",
-  "main": "lib/topy.js",
+  "main": "lib/index.js",
   "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
